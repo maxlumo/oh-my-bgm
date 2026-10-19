@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Oh My BGM">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF8A5C"/>
+      <stop offset="0.55" stop-color="#F0567A"/>
+      <stop offset="1" stop-color="#6D5BFF"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.22"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="112" fill="url(#bg)"/>
+  <rect x="16" y="16" width="480" height="480" rx="112" fill="url(#shine)"/>
+  <!-- { } : music written as code -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 132 C130 132 128 156 128 190 L128 224 C128 244 118 256 96 256 C118 256 128 268 128 288 L128 322 C128 356 130 380 168 380"/>
+    <path d="M344 132 C382 132 384 156 384 190 L384 224 C384 244 394 256 416 256 C394 256 384 268 384 288 L384 322 C384 356 382 380 344 380"/>
+  </g>
+  <!-- a beamed pair of eighth notes -->
+  <g fill="#FFFFFF">
+    <path d="M208 175 L322 148 L322 186 L208 213 Z"/>
+    <rect x="208" y="186" width="16" height="140" rx="6"/>
+    <rect x="306" y="162" width="16" height="140" rx="6"/>
+    <ellipse cx="186" cy="328" rx="36" ry="27" transform="rotate(-22 186 328)"/>
+    <ellipse cx="284" cy="304" rx="36" ry="27" transform="rotate(-22 284 304)"/>
+  </g>
+</svg>

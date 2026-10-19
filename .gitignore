@@ -1,0 +1,8 @@
+# renders and Python caches
+out/
+__pycache__/
+*.pyc
+.venv/
+
+# agent worktrees
+/worktree/

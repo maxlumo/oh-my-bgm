@@ -1,0 +1,14 @@
+{
+  "name": "oh-my-bgm",
+  "displayName": "Oh My BGM",
+  "version": "1.0.0",
+  "description": "Background music, written as code: compose, play, mix and check instrumental music in Python.",
+  "author": {
+    "name": "maxlumo",
+    "url": "https://github.com/maxlumo"
+  },
+  "homepage": "https://github.com/maxlumo/oh-my-bgm",
+  "repository": "https://github.com/maxlumo/oh-my-bgm",
+  "license": "MIT",
+  "keywords": ["music", "bgm", "soundtrack", "soundfont", "fluidsynth", "audio"]
+}

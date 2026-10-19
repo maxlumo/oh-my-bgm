@@ -1,0 +1,15 @@
+{
+  "name": "maxlumo",
+  "description": "Plugins by maxlumo: Oh My BGM writes background music as code.",
+  "owner": {
+    "name": "maxlumo",
+    "url": "https://github.com/maxlumo"
+  },
+  "plugins": [
+    {
+      "name": "oh-my-bgm",
+      "source": "./",
+      "description": "Background music, written as code: compose, play, mix and check instrumental music in Python."
+    }
+  ]
+}
